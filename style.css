@@ -33,8 +33,13 @@ li a{
 
 button{
     height:31px;
-    background-color: #4584ef;
-    border-color: #4584ef;
+    background-color: #4485f4;
+    border-color: #4485f4;
+    color:white;
+    font:arial;
+    border: 0 solid white;
+    border-radius:2px;
+    width:120px;
     
 }
 
@@ -42,10 +47,46 @@ button{
     display:block;
     margin-left:auto;
     margin-right:auto;
+    width:500px;
+    height:40px;
+    border-radius:25px;
+    border:1px solid #ebecef;
+    
 }
 
 #tsf{
     display:block;
     margin-left:auto;
     margin-right:auto;
+    border-radius:25px;
+    border:0px;
+}
+
+#serc{
+        border-radius: 3px;
+        border:0px;
+        display:block;
+        margin: 0 auto;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        padding-top:25px;
+
+}
+
+#googs{
+    background-color:#f1f1f1;
+    border-color: #f1f1f1;
+    border-radius: 3px;
+    border:0px;
+    color: #5f6368;
+}
+
+#ifl{
+    background-color:#f1f1f1;
+    border-color: #f1f1f1;
+    border-radius: 3px;
+    border:0px;
+    color:#5f6368;
+    
 }
