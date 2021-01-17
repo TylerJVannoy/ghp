@@ -1,0 +1,51 @@
+body{
+    background-color:#ffffff;
+}
+#glogo{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: #ffffff;
+}
+
+li{
+    float:left;
+    font-size:12px;
+    font-family: arial;
+    color:black;
+}
+
+li a{
+    display:block;
+    color:black;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+
+button{
+    height:31px;
+    background-color: #4584ef;
+    border-color: #4584ef;
+    
+}
+
+#sb{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#tsf{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
